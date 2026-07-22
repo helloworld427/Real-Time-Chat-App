@@ -1,0 +1,24 @@
+# ===== Frontend =====
+
+front-chat/node_modules/
+front-chat/dist/
+
+# ===== Backend =====
+
+chat-app-backend/target/
+chat-app-backend/.mvn/wrapper/maven-wrapper.jar
+
+# ===== OS =====
+
+.DS_Store
+Thumbs.db
+
+# ===== IDE =====
+
+.idea/
+.vscode/
+*.iml
+
+# ===== Logs =====
+
+*.log
